@@ -1,6 +1,6 @@
 #second CSV file
-Miasto,Powierzchnia
-Gdańsk, 312
-Warszawa,289
-Poznań,212
-Kraków,267
+Powierzchnia,Miasto,
+312,Gdańsk
+289,Warszawa
+212,Poznań
+267,Kraków
