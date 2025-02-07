@@ -1,0 +1,6 @@
+#trzeci plik
+Urządzenie, rok produkcji
+mikroskop, 1989
+autoklaw, 2011
+wirówka,2022
+komputer,2020
